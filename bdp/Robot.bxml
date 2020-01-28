@@ -1,0 +1,7 @@
+<Machine name='Robot' type='abstraction'>
+<Initialisation>
+<Skip/>
+</Initialisation>
+<TypeInfos/>
+
+</Machine>
